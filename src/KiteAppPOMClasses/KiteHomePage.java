@@ -5,6 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+// Author Rekha Patil
 public class KiteHomePage {
 	@FindBy(xpath="//span[@class='user-id']")private WebElement userID;
 	
